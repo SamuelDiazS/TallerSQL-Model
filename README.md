@@ -1,4 +1,4 @@
-# 🎵 Mi Playlist — API con FastAPI + SQLModel (Taller 1)
+#(Taller 1)
 
 Integrantes: Samuel Díaz Sánchez
 
